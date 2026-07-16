@@ -1,0 +1,15 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/RodrigoRodriguesGit/Futebol360.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	name = Rodrigo Rodrigues
+	email = 41898282+github-actions[bot]@users.noreply.github.com
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main

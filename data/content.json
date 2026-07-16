@@ -1,0 +1,17 @@
+{
+  "articles": [
+    {
+      "id": "bem-vindo-futebol-360",
+      "title": "Futebol 360 estreia nova central de conteúdo",
+      "summary": "O portal agora possui publicação editorial, páginas de clubes e tabelas completas em uma única experiência.",
+      "body": "Esta é a primeira matéria publicada pelo novo painel editorial do Futebol 360. A partir de agora, notícias podem ser criadas como rascunho, revisadas e publicadas com segurança.",
+      "category": "Futebol 360",
+      "clubSlug": "",
+      "status": "published",
+      "sourceUrl": "",
+      "createdAt": "2026-07-15T12:00:00.000Z",
+      "updatedAt": "2026-07-15T12:00:00.000Z",
+      "publishedAt": "2026-07-15T12:00:00.000Z"
+    }
+  ]
+}
